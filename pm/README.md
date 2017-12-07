@@ -12,6 +12,8 @@
 
 - https://app.pluralsight.com/paths/certificate/business-analysis-pmi-pba
 - https://app.pluralsight.com/paths/certificate/pmp
+- https://app.pluralsight.com/paths/certificate/comptia-project
+- https://app.pluralsight.com/paths/certificate/prince2-practitioner
 
 ### Books
 
