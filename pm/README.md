@@ -19,3 +19,7 @@
 
 - https://www.amazon.com/PMP-Exam-Prep-Eighth-Updated/dp/1932735658/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1466391762&sr=1-1&keywords=rita+mulcahy&linkCode=sl1&tag=yegor256com-20&linkId=9ebe1c56757d86e03afe71e61bffdf8b
 - http://www.yegor256.com/2015/04/22/favorite-software-books.html
+
+### Podcasts
+
+- [Shift-M](http://www.yegor256.com/shift-m.html)
